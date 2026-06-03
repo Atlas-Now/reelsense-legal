@@ -34,15 +34,10 @@ We use your information to:
 
 We do not sell your personal information to any third party.
 
-## 4. Third-party services
+## 4. Third-party services & attributions
 
-ReelSense uses the following third-party services to operate:
-
-- **Supabase** (supabase.com) — database, authentication, and file storage. Your data is stored on Supabase servers. [Supabase Privacy Policy](https://supabase.com/privacy)
-- **Open-Meteo** (open-meteo.com) — weather and conditions data. We send your approximate location coordinates to retrieve weather. No personal identifiers are sent. [Open-Meteo Terms](https://open-meteo.com/en/terms)
-- **OpenStreetMap / Nominatim** (openstreetmap.org) — location geocoding (converting coordinates to place names). No personal identifiers are sent. [OSM Privacy Policy](https://wiki.osmfoundation.org/wiki/Privacy_Policy)
-- **FishingBooker** (fishingbooker.com) — external link for finding charter captains. If you tap the FishingBooker link, you leave the ReelSense app and are subject to FishingBooker's own privacy policy.
-- **AnimatedKnots** (animatedknots.com) — external link for knot tutorials. If you tap a knot guide link, you leave the app and are subject to their privacy policy.
+- **Weather data** provided by [Open-Meteo](https://open-meteo.com) (open-meteo.com). We send your approximate location coordinates to retrieve weather conditions. No personal identifiers are sent. Used under Open-Meteo's free tier terms which require this attribution.
+- **Map and location data** © [OpenStreetMap](https://www.openstreetmap.org/copyright) contributors, available under the Open Database License (ODbL). We use OpenStreetMap's Nominatim service for geocoding (converting coordinates to place names). No personal identifiers are sent.
 
 ## 5. Data retention
 
